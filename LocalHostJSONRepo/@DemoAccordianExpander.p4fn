@@ -2587,6 +2587,7 @@
    "ErrorFunction": "@DemoExpanderGalleryMenu",
    "Events": {
       "001": [
+         "// Add some additional comments to the logic to compare it with previous version of the Git Repo",
          "// Set the initial state.",
          "//",
          "// Expander 1 expanded and 2,3 & 4 contracted",
@@ -2600,7 +2601,7 @@
          "Expander3.Visible = 0",
          "Expander4.Visible = 0",
          "//",
-         "// Set field details",
+         "// Set field details for the panels",
          "//",
          "$Tab1Fld1 = 'Panel 1 Field 1'",
          "$Tab1Fld2 = 'Panel 1 Field 2'",
